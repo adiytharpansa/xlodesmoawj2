@@ -1,0 +1,34 @@
+{
+ "wid": "ranma-specials",
+ "anilistId": 1008,
+ "name": "Ranma \u00bd Specials",
+ "totalEpisodes": 6,
+ "repo": "adiytharpansa/xlodesmoawj2",
+ "pin": "d27104c84500c0ec2dc40c5184ef5d07883156e1",
+ "subs": {
+  "1": [
+   "en",
+   "id"
+  ],
+  "2": [
+   "en",
+   "id"
+  ],
+  "3": [
+   "en",
+   "id"
+  ],
+  "4": [
+   "en",
+   "id"
+  ],
+  "5": [
+   "en",
+   "id"
+  ],
+  "6": [
+   "en",
+   "id"
+  ]
+ }
+}
